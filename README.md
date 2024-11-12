@@ -26,7 +26,7 @@ A comprehensive Quran application for Android, built using Jetpack Compose, Hilt
 
 You can download the latest version of the app from the link below:
 
-[Download APK](https://github.com/LaibaIstkar/Quran/blob/main/apk/app-debug.apk)
+[Download APK](https://github.com/LaibaIstkar/Quran/raw/main/apk/app-debug.apk)
 
 ## Architecture
 
